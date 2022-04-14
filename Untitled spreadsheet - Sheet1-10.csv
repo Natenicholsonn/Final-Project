@@ -1,0 +1,14 @@
+Health Condition,TotalM/FHealth,TOTALS.E.,MaleRate,MaleS.E.,FemaleRate,FemaleS.E.
+Hardening of the arteries or arteriosclerosis,10.66,0.83,13.01,1.21,8.06,0.92
+High blood pressure or hypertension,152.45,3.36,152.43,4.42,152.46,4.13
+Cirrhosis of the liver,1.69,0.35,2.65,0.63,#0.63,0.24
+Any other form of liver disease,4.26,0.49,4.79,0.69,3.67,0.61
+Chest pain or angina pectoris,27.46,1.33,27.96,1.73,26.91,1.9
+Rapid heart beat or tachycardia,30.07,1.44,24.77,1.73,35.95,2.02
+Heart attack or myocardial infarction,4.75,0.43,5.96,0.71,3.4,0.55
+Any other form of heart disease,19.15,1.11,21.58,1.64,16.45,1.32
+Stomach ulcer,19.29,0.97,16.85,1.27,21.99,1.35
+Gastritis,37.41,1.58,29.82,1.9,45.83,2.23
+Arthritis,138.8,3.81,113.86,4.26,166.47,4.89
+Schizophrenia or psychotic illness,3.06,0.45,3.12,0.7,3.01,0.52
+Any of the above diseases,288.8,5.36,270.48,6.68,309.12,6.14

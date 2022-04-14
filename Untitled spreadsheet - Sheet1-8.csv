@@ -1,0 +1,60 @@
+Drinking status and health conditions,,"Both sexes/
+ages 18 and older",,Sex,,,
+,,Rate,S.E.,Male,,Female,
+,,,,Rate,S.E.,Rate,S.E.
+Total,,,,,,,
+,Hardening of the arteries or arteriosclerosis,15.8,0.79,17.42,1.27,14.31,0.92
+,High blood pressure or hypertension,185.24,3.86,171.3,4.56,198.07,4.25
+,Cirrhosis of the liver,2.15,0.28,3.17,0.52,1.22,0.25
+,Any other form of liver disease,5.26,0.42,6.31,0.68,4.3,0.44
+,Chest pain or angina pectoris,37.56,1.47,34.56,1.83,40.32,1.91
+,Rapid heart beat or tachycardia,39.31,1.48,29.51,1.64,48.33,2.18
+,Heart attack or myocardial infarction,8.93,0.55,10.73,0.83,7.27,0.64
+,Any other form of heart disease,27.25,1.16,27.44,1.71,27.07,1.36
+,Stomach ulcer,23.17,0.96,19.8,1.29,26.27,1.27
+,Gastritis,42.23,1.39,31.45,1.73,52.15,1.95
+,Arthritis,170.37,4.27,129.88,4.36,207.64,5.22
+,Schizophrenia or psychotic illness,3.4,0.36,3.3,0.56,3.49,0.46
+,Any of the above diseases,329.25,6.05,293.78,6.9,361.88,6.57
+Current drinker,,,,,,,
+,Hardening of the arteries or arteriosclerosis,10.66,0.83,13.01,1.21,8.06,0.92
+,High blood pressure or hypertension,152.45,3.36,152.43,4.42,152.46,4.13
+,Cirrhosis of the liver,1.69,0.35,2.65,0.63,#0.63,0.24
+,Any other form of liver disease,4.26,0.49,4.79,0.69,3.67,0.61
+,Chest pain or angina pectoris,27.46,1.33,27.96,1.73,26.91,1.9
+,Rapid heart beat or tachycardia,30.07,1.44,24.77,1.73,35.95,2.02
+,Heart attack or myocardial infarction,4.75,0.43,5.96,0.71,3.4,0.55
+,Any other form of heart disease,19.15,1.11,21.58,1.64,16.45,1.32
+,Stomach ulcer,19.29,0.97,16.85,1.27,21.99,1.35
+,Gastritis,37.41,1.58,29.82,1.9,45.83,2.23
+,Arthritis,138.8,3.81,113.86,4.26,166.47,4.89
+,Schizophrenia or psychotic illness,3.06,0.45,3.12,0.7,3.01,0.52
+,Any of the above diseases,288.8,5.36,270.48,6.68,309.12,6.14
+Former drinker,,,,,,,
+,Hardening of the arteries or arteriosclerosis,25.48,1.99,30.05,3.65,21.57,2.25
+,High blood pressure or hypertension,279.66,6.76,263.81,9.75,293.19,8.5
+,Cirrhosis of the liver,4.6,0.84,6.46,1.65,3.02,0.82
+,Any other form of liver disease,9.87,1.37,12.95,2.47,7.24,1.29
+,Chest pain or angina pectoris,65.77,3.82,63.35,5.28,67.83,4.65
+,Rapid heart beat or tachycardia,63.62,3.46,49.09,4.51,76.02,5.09
+,Heart attack or myocardial infarction,18.74,1.94,24.49,2.82,13.84,2.28
+,Any other form of heart disease,47.77,2.87,49.66,4.73,46.15,3.81
+,Stomach ulcer,36.37,2.63,33.68,4.12,38.67,3.37
+,Gastritis,60.7,3.21,45.53,4.56,73.65,4.77
+,Arthritis,266.46,7.68,217.29,10.26,308.42,9.54
+,Schizophrenia or psychotic illness,5.67,0.93,4.59,1.15,6.59,1.34
+,Any of the above diseases,464.89,8.77,428.67,12.22,495.8,10.52
+Lifetime abstainer,,,,,,,
+,Hardening of the arteries or arteriosclerosis,25.58,2.31,26.68,4.74,25.06,2.67
+,High blood pressure or hypertension,215.01,8.48,155.65,10.66,243.06,9.75
+,Cirrhosis of the liver,#1.46,0.52,#1.67,1.1,#1.36,0.54
+,Any other form of liver disease,4.44,0.9,#6.21,2.33,3.6,0.72
+,Chest pain or angina pectoris,47.59,3.15,34.22,4.7,53.91,3.79
+,Rapid heart beat or tachycardia,49.98,3.61,30.85,4.39,59.02,4.54
+,Heart attack or myocardial infarction,14.95,1.72,20.59,3.72,12.29,1.73
+,Any other form of heart disease,37.4,3.16,31.95,4.93,39.97,3.71
+,Stomach ulcer,24.7,2.08,18.25,3.34,27.74,2.7
+,Gastritis,42.02,2.73,21.37,3.44,51.78,3.65
+,Arthritis,193.83,8.73,103.78,8.42,236.37,10.9
+,Schizophrenia or psychotic illness,2.39,0.58,#2.61,1.05,#2.28,0.69
+,Any of the above diseases,346.77,11.62,244.77,13.7,394.96,13.33
